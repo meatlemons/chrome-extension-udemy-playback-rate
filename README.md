@@ -3,11 +3,11 @@
 This extension ([link to extension page](https://chrome.google.com/webstore/detail/udemy-video-playback-spee/jipobffkabkgddgmdmmgjoaopbnjnffn?hl=en-US&gl=US)) adds additional playback speed options for videos on Udemy.
 You can watch videos at up to 4x speed!
 
-#Pre-requisites 
+# Pre-requisites 
 - Node 14+
 - Chromium-based Browser 
 
-#Installation Instructions
+# Installation Instructions
 
 1) Run `npm install` from root
 2) Run `npm run webpack` from root
