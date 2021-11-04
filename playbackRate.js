@@ -1,6 +1,6 @@
-const MAX_RATE = 4
+const MAX_RATE = 8
 const MIN_RATE = 0.5
-const INCREMENT = 0.25
+const INCREMENT = 0.5
 
 const MENU_ITEM_HIGHLIGHT = 'rgb(236, 82, 82)'
 
