@@ -16,7 +16,7 @@ You can watch videos at up to 4x speed!
 ![Dev Mode](/screenshots/dev_mode.png)
 5) Select "load unpacked"
 ![Load Unpacked](/screenshots/load_unpacked.png)
-6) Select the whole "chrome-extension-udemy-playback-rate" folder
+6) Select the "extension" folder
 <br/>
 <br/>
 
